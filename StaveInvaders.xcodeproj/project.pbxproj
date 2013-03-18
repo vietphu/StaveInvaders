@@ -24,6 +24,7 @@
 		02415DD716F751A300749596 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 02415DAF16F751A200749596 /* Foundation.framework */; };
 		02415DDF16F751A300749596 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 02415DDD16F751A300749596 /* InfoPlist.strings */; };
 		02415DE216F751A300749596 /* StaveInvadersTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 02415DE116F751A300749596 /* StaveInvadersTests.m */; };
+		E265AD2016F759EC00E66FF0 /* SI_KeysController.mm in Sources */ = {isa = PBXBuildFile; fileRef = E265AD1E16F759EC00E66FF0 /* SI_KeysController.mm */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,6 +61,8 @@
 		02415DDE16F751A300749596 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		02415DE016F751A300749596 /* StaveInvadersTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = StaveInvadersTests.h; sourceTree = "<group>"; };
 		02415DE116F751A300749596 /* StaveInvadersTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StaveInvadersTests.m; sourceTree = "<group>"; };
+		E265AD1D16F759EC00E66FF0 /* SI_KeysController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SI_KeysController.h; sourceTree = "<group>"; };
+		E265AD1E16F759EC00E66FF0 /* SI_KeysController.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = SI_KeysController.mm; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,6 +128,8 @@
 				02415DC816F751A200749596 /* MainStoryboard_iPad.storyboard */,
 				02415DCB16F751A200749596 /* SI_ViewController.h */,
 				02415DCC16F751A200749596 /* SI_ViewController.m */,
+				E265AD1D16F759EC00E66FF0 /* SI_KeysController.h */,
+				E265AD1E16F759EC00E66FF0 /* SI_KeysController.mm */,
 				02415DB416F751A200749596 /* Supporting Files */,
 			);
 			path = StaveInvaders;
@@ -278,6 +283,7 @@
 				02415DBA16F751A200749596 /* main.m in Sources */,
 				02415DBE16F751A200749596 /* SI_AppDelegate.m in Sources */,
 				02415DCD16F751A200749596 /* SI_ViewController.m in Sources */,
+				E265AD2016F759EC00E66FF0 /* SI_KeysController.mm in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
