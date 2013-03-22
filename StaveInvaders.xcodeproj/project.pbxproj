@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		02322BA716FCAC5600044B5F /* SI_Alien.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 02322BA516FCAC5600044B5F /* SI_Alien.cpp */; };
 		A18B4BCF16FCA5B7006A17B8 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A18B4BCE16FCA5B7006A17B8 /* UIKit.framework */; };
 		A18B4BD116FCA5B7006A17B8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A18B4BD016FCA5B7006A17B8 /* Foundation.framework */; };
 		A18B4BD316FCA5B7006A17B8 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A18B4BD216FCA5B7006A17B8 /* CoreGraphics.framework */; };
@@ -19,6 +20,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		02322BA516FCAC5600044B5F /* SI_Alien.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = SI_Alien.cpp; path = ../../../../../../../Jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/Aliens/SI_Alien.cpp; sourceTree = "<group>"; };
+		02322BA616FCAC5600044B5F /* SI_Alien.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SI_Alien.h; path = ../../../../../../../Jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/Aliens/SI_Alien.h; sourceTree = "<group>"; };
 		A18B4BCA16FCA5B7006A17B8 /* StaveInvaders.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StaveInvaders.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A18B4BCE16FCA5B7006A17B8 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		A18B4BD016FCA5B7006A17B8 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -49,6 +52,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		02322BA216FCABB600044B5F /* Aliens */ = {
+			isa = PBXGroup;
+			children = (
+				02322BA516FCAC5600044B5F /* SI_Alien.cpp */,
+				02322BA616FCAC5600044B5F /* SI_Alien.h */,
+			);
+			name = Aliens;
+			sourceTree = "<group>";
+		};
 		A18B4BBF16FCA5B7006A17B8 = {
 			isa = PBXGroup;
 			children = (
@@ -79,6 +91,7 @@
 		A18B4BD416FCA5B7006A17B8 /* StaveInvaders */ = {
 			isa = PBXGroup;
 			children = (
+				02322BA216FCABB600044B5F /* Aliens */,
 				A18B4BDD16FCA5B7006A17B8 /* SIAppDelegate.h */,
 				A18B4BDE16FCA5B7006A17B8 /* SIAppDelegate.mm */,
 				A18B4BE016FCA5B7006A17B8 /* MainStoryboard_iPhone.storyboard */,
@@ -167,6 +180,7 @@
 				A18B4BDB16FCA5B7006A17B8 /* main.m in Sources */,
 				A18B4BDF16FCA5B7006A17B8 /* SIAppDelegate.mm in Sources */,
 				A18B4BE816FCA5B8006A17B8 /* SIMenuViewController.mm in Sources */,
+				02322BA716FCAC5600044B5F /* SI_Alien.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
