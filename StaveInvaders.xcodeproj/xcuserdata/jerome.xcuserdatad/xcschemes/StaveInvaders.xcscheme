@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "02415DA916F751A200749596"
+               BlueprintIdentifier = "A18B4BC916FCA5B7006A17B8"
                BuildableName = "StaveInvaders.app"
                BlueprintName = "StaveInvaders"
                ReferencedContainer = "container:StaveInvaders.xcodeproj">
@@ -28,21 +28,11 @@
       shouldUseLaunchSchemeArgsEnv = "YES"
       buildConfiguration = "Debug">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "02415DD216F751A300749596"
-               BuildableName = "StaveInvadersTests.octest"
-               BlueprintName = "StaveInvadersTests"
-               ReferencedContainer = "container:StaveInvaders.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "02415DA916F751A200749596"
+            BlueprintIdentifier = "A18B4BC916FCA5B7006A17B8"
             BuildableName = "StaveInvaders.app"
             BlueprintName = "StaveInvaders"
             ReferencedContainer = "container:StaveInvaders.xcodeproj">
@@ -61,7 +51,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "02415DA916F751A200749596"
+            BlueprintIdentifier = "A18B4BC916FCA5B7006A17B8"
             BuildableName = "StaveInvaders.app"
             BlueprintName = "StaveInvaders"
             ReferencedContainer = "container:StaveInvaders.xcodeproj">
@@ -79,7 +69,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "02415DA916F751A200749596"
+            BlueprintIdentifier = "A18B4BC916FCA5B7006A17B8"
             BuildableName = "StaveInvaders.app"
             BlueprintName = "StaveInvaders"
             ReferencedContainer = "container:StaveInvaders.xcodeproj">

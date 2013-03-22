@@ -1,3 +1,2 @@
-dependencies: \
-  /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/main.m \
-  /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/SI_AppDelegate.h
+dependencies: /Users/jerome/Desktop/StaveInvaders/StaveInvaders/main.m \
+  /Users/jerome/Desktop/StaveInvaders/StaveInvaders/SIAppDelegate.h
