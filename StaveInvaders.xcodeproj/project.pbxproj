@@ -20,8 +20,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		02322BA516FCAC5600044B5F /* SI_Alien.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = SI_Alien.cpp; path = ../../../../../../../Jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/Aliens/SI_Alien.cpp; sourceTree = "<group>"; };
-		02322BA616FCAC5600044B5F /* SI_Alien.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SI_Alien.h; path = ../../../../../../../Jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/Aliens/SI_Alien.h; sourceTree = "<group>"; };
+		02322BA516FCAC5600044B5F /* SI_Alien.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = SI_Alien.cpp; path = StaveInvaders/Aliens/SI_Alien.cpp; sourceTree = SOURCE_ROOT; };
+		02322BA616FCAC5600044B5F /* SI_Alien.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SI_Alien.h; path = StaveInvaders/Aliens/SI_Alien.h; sourceTree = SOURCE_ROOT; };
 		A18B4BCA16FCA5B7006A17B8 /* StaveInvaders.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StaveInvaders.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A18B4BCE16FCA5B7006A17B8 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		A18B4BD016FCA5B7006A17B8 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
