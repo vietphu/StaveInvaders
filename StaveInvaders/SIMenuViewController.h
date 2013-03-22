@@ -1,5 +1,5 @@
 //
-//  SIViewController.h
+//  SIMenuViewController.h
 //  StaveInvaders
 //
 //  Created by Andy on 22/03/2013.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface SIViewController : UIViewController
+@interface SIMenuViewController : UIViewController
 
 @end

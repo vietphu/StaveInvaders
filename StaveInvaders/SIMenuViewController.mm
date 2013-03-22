@@ -1,14 +1,14 @@
 //
-//  SIViewController.m
+//  SIMenuViewController.m
 //  StaveInvaders
 //
 //  Created by Andy on 22/03/2013.
 //  Copyright (c) 2013 __MyCompanyName__. All rights reserved.
 //
 
-#import "SIViewController.h"
+#import "SIMenuViewController.h"
 
-@implementation SIViewController
+@implementation SIMenuViewController
 
 - (void)didReceiveMemoryWarning
 {

@@ -12,10 +12,10 @@
 		A18B4BD316FCA5B7006A17B8 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A18B4BD216FCA5B7006A17B8 /* CoreGraphics.framework */; };
 		A18B4BD916FCA5B7006A17B8 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = A18B4BD716FCA5B7006A17B8 /* InfoPlist.strings */; };
 		A18B4BDB16FCA5B7006A17B8 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A18B4BDA16FCA5B7006A17B8 /* main.m */; };
-		A18B4BDF16FCA5B7006A17B8 /* SIAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A18B4BDE16FCA5B7006A17B8 /* SIAppDelegate.m */; };
+		A18B4BDF16FCA5B7006A17B8 /* SIAppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = A18B4BDE16FCA5B7006A17B8 /* SIAppDelegate.mm */; };
 		A18B4BE216FCA5B8006A17B8 /* MainStoryboard_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A18B4BE016FCA5B7006A17B8 /* MainStoryboard_iPhone.storyboard */; };
 		A18B4BE516FCA5B8006A17B8 /* MainStoryboard_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A18B4BE316FCA5B8006A17B8 /* MainStoryboard_iPad.storyboard */; };
-		A18B4BE816FCA5B8006A17B8 /* SIViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A18B4BE716FCA5B8006A17B8 /* SIViewController.m */; };
+		A18B4BE816FCA5B8006A17B8 /* SIMenuViewController.mm in Sources */ = {isa = PBXBuildFile; fileRef = A18B4BE716FCA5B8006A17B8 /* SIMenuViewController.mm */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,11 +28,11 @@
 		A18B4BDA16FCA5B7006A17B8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		A18B4BDC16FCA5B7006A17B8 /* StaveInvaders-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "StaveInvaders-Prefix.pch"; sourceTree = "<group>"; };
 		A18B4BDD16FCA5B7006A17B8 /* SIAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SIAppDelegate.h; sourceTree = "<group>"; };
-		A18B4BDE16FCA5B7006A17B8 /* SIAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SIAppDelegate.m; sourceTree = "<group>"; };
+		A18B4BDE16FCA5B7006A17B8 /* SIAppDelegate.mm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; path = SIAppDelegate.mm; sourceTree = "<group>"; };
 		A18B4BE116FCA5B7006A17B8 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
 		A18B4BE416FCA5B8006A17B8 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
-		A18B4BE616FCA5B8006A17B8 /* SIViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SIViewController.h; sourceTree = "<group>"; };
-		A18B4BE716FCA5B8006A17B8 /* SIViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SIViewController.m; sourceTree = "<group>"; };
+		A18B4BE616FCA5B8006A17B8 /* SIMenuViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SIMenuViewController.h; sourceTree = "<group>"; };
+		A18B4BE716FCA5B8006A17B8 /* SIMenuViewController.mm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; path = SIMenuViewController.mm; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,11 +80,11 @@
 			isa = PBXGroup;
 			children = (
 				A18B4BDD16FCA5B7006A17B8 /* SIAppDelegate.h */,
-				A18B4BDE16FCA5B7006A17B8 /* SIAppDelegate.m */,
+				A18B4BDE16FCA5B7006A17B8 /* SIAppDelegate.mm */,
 				A18B4BE016FCA5B7006A17B8 /* MainStoryboard_iPhone.storyboard */,
 				A18B4BE316FCA5B8006A17B8 /* MainStoryboard_iPad.storyboard */,
-				A18B4BE616FCA5B8006A17B8 /* SIViewController.h */,
-				A18B4BE716FCA5B8006A17B8 /* SIViewController.m */,
+				A18B4BE616FCA5B8006A17B8 /* SIMenuViewController.h */,
+				A18B4BE716FCA5B8006A17B8 /* SIMenuViewController.mm */,
 				A18B4BD516FCA5B7006A17B8 /* Supporting Files */,
 			);
 			path = StaveInvaders;
@@ -165,8 +165,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				A18B4BDB16FCA5B7006A17B8 /* main.m in Sources */,
-				A18B4BDF16FCA5B7006A17B8 /* SIAppDelegate.m in Sources */,
-				A18B4BE816FCA5B8006A17B8 /* SIViewController.m in Sources */,
+				A18B4BDF16FCA5B7006A17B8 /* SIAppDelegate.mm in Sources */,
+				A18B4BE816FCA5B8006A17B8 /* SIMenuViewController.mm in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -288,6 +288,7 @@
 				A18B4BED16FCA5B8006A17B8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
