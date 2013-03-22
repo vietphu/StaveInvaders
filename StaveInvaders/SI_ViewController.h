@@ -9,5 +9,6 @@
 #import <UIKit/UIKit.h>
 
 @interface SI_ViewController : UIViewController
+- (IBAction)StartGame:(id)sender;
 
 @end

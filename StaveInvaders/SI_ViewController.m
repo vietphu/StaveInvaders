@@ -28,4 +28,7 @@
 
 //Tom johnson poo poo
 
+- (IBAction)StartGame:(id)sender {
+    NSLog(@"StartGame called");
+}
 @end
