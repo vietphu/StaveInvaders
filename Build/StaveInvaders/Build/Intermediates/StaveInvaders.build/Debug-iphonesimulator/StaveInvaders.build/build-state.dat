@@ -1,555 +1,0 @@
-TStaveInvaders
-v5
-r1
-cCheck dependencies
-cProcessInfoPlistFile /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/Info.plist StaveInvaders/StaveInvaders-Info.plist
-cProcessPCH++ /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-fpvahgytzrqfvocmbwhudthovzbq/StaveInvaders-Prefix.pch.pth StaveInvaders/StaveInvaders-Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
-cProcessPCH /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-gyqgfffqrfqrgtettvbebiaoedtx/StaveInvaders-Prefix.pch.pth StaveInvaders/StaveInvaders-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cProcessPCH++ /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-bciovxszupgbeiajcevbbfdlsczf/StaveInvaders-Prefix.pch.pth StaveInvaders/StaveInvaders-Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SIAppDelegate.o /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/SIAppDelegate.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SIMenuViewController.o /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/SIMenuViewController.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/main.o /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SI_Alien.o /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/Aliens/SI_Alien.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/StaveInvaders normal i386
-cGenerateDSYMFile /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app.dSYM /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/StaveInvaders
-cCopyStringsFile /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/en.lproj/InfoPlist.strings StaveInvaders/en.lproj/InfoPlist.strings
-cCompileStoryboard /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/en.lproj/MainStoryboard_iPad.storyboard
-cCompileStoryboard /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/en.lproj/MainStoryboard_iPhone.storyboard
-cTouch /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
-c0000000050EDEAFB0000000000000110
-t1357769467
-s272
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c0000000051101FB80000000000228FE0
-t1360011192
-s2265056
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c0000000051101FBA00000000003DDFA0
-t1360011194
-s4054944
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c0000000051101FC10000000000AB6230
-t1360011201
-s11231792
-
-N/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-ejfochtmvjfyymdsiznoraozfzob/StaveInvaders-Prefix.pch.pth
-t2
-s0
-
-N/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SIAppDelegate.o
-t2
-s0
-
-N/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SIViewController.o
-t2
-s0
-
-N/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/StaveInvaders.LinkFileList
-c00000000514C719C0000000000000204
-t1363964316
-s516
-
-N/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/main.o
-t2
-s0
-
-N/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app
-t2
-s0
-
-N/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app.dSYM
-t2
-s0
-
-N/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/Info.plist
-t2
-s0
-
-N/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/PkgInfo
-t2
-s0
-
-N/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/StaveInvaders
-t2
-s0
-
-N/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/en.lproj/InfoPlist.strings
-t2
-s0
-
-N/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/en.lproj/MainStoryboard_iPad.storyboardc
-t2
-s0
-
-N/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/en.lproj/MainStoryboard_iPhone.storyboardc
-t2
-s0
-
-N/Users/jerome/Desktop/StaveInvaders/StaveInvaders/SIAppDelegate.h
-c00000000000000000000000000000000
-t2
-s0
-
-N/Users/jerome/Desktop/StaveInvaders/StaveInvaders/SIAppDelegate.m
-c00000000000000000000000000000000
-t2
-s0
-
-N/Users/jerome/Desktop/StaveInvaders/StaveInvaders/SIViewController.m
-c00000000514C6E38000000000000052D
-t1363963448
-s1325
-
-N/Users/jerome/Desktop/StaveInvaders/StaveInvaders/StaveInvaders-Prefix.pch
-c00000000514C6E360000000000000149
-t1363963446
-s329
-
-N/Users/jerome/Desktop/StaveInvaders/StaveInvaders/en.lproj/InfoPlist.strings
-c00000000514C6E36000000000000002D
-t1363963446
-s45
-
-N/Users/jerome/Desktop/StaveInvaders/StaveInvaders/en.lproj/MainStoryboard_iPad.storyboard
-c00000000514C6E380000000000000647
-t1363963448
-s1607
-
-N/Users/jerome/Desktop/StaveInvaders/StaveInvaders/en.lproj/MainStoryboard_iPhone.storyboard
-c00000000514C6E36000000000000061E
-t1363963446
-s1566
-
-N/Users/jerome/Desktop/StaveInvaders/StaveInvaders/main.m
-c00000000000000000000000000000000
-t2
-s0
-
-N/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-bciovxszupgbeiajcevbbfdlsczf/StaveInvaders-Prefix.pch.pth
-t1363966664
-s143548
-
-N/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-fpvahgytzrqfvocmbwhudthovzbq/StaveInvaders-Prefix.pch.pth
-t1363966664
-s5451928
-
-N/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-gyqgfffqrfqrgtettvbebiaoedtx/StaveInvaders-Prefix.pch.pth
-t1363966664
-s4675540
-
-N/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SIAppDelegate.o
-t1363966665
-s79448
-
-N/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SIMenuViewController.o
-t1363966664
-s65956
-
-N/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SI_Alien.o
-t1363966664
-s29212
-
-N/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/StaveInvaders.LinkFileList
-c00000000514C7AC70000000000000309
-t1363966663
-s777
-
-N/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/main.o
-t1363966664
-s3348
-
-N/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app
-t1363966667
-s204
-
-N/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app.dSYM
-t1363966667
-s102
-
-N/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/Info.plist
-t1363966663
-s1046
-
-N/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/PkgInfo
-t1363966663
-s8
-
-N/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/StaveInvaders
-t1363966667
-s34504
-
-N/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/en.lproj/InfoPlist.strings
-t1363966003
-s42
-
-N/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/en.lproj/MainStoryboard_iPad.storyboardc
-t1363966667
-s170
-
-N/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/en.lproj/MainStoryboard_iPhone.storyboardc
-t1363966667
-s306
-
-N/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/Aliens/SI_Alien.cpp
-c00000000514C7839000000000000016F
-t1363966009
-s367
-
-N/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/Aliens/SI_Alien.h
-c00000000514C7839000000000000023C
-t1363966009
-s572
-
-N/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/SIAppDelegate.h
-c00000000514C78390000000000000121
-t1363966009
-s289
-
-N/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/SIAppDelegate.mm
-c00000000514C7957000000000000084B
-t1363966295
-s2123
-
-N/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/SIMenuViewController.h
-c00000000514C795700000000000000EB
-t1363966295
-s235
-
-N/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/SIMenuViewController.mm
-c00000000514C79570000000000000539
-t1363966295
-s1337
-
-N/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/StaveInvaders-Prefix.pch
-c00000000514C6E360000000000000149
-t1363963446
-s329
-
-N/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/en.lproj/InfoPlist.strings
-c00000000514C6E36000000000000002D
-t1363963446
-s45
-
-N/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/en.lproj/MainStoryboard_iPad.storyboard
-c00000000514C79570000000000000606
-t1363966295
-s1542
-
-N/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/en.lproj/MainStoryboard_iPhone.storyboard
-c00000000514C7AB40000000000002968
-t1363966644
-s10600
-
-N/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/main.m
-c00000000514C7839000000000000015C
-t1363966009
-s348
-
-NStaveInvaders/StaveInvaders-Info.plist
-c00000000514C7AB40000000000000637
-t1363966644
-s1591
-
-CBuild AST from /Users/jerome/Desktop/StaveInvaders/StaveInvaders/SIAppDelegate.m
-r0
-
-CBuild AST from /Users/jerome/Desktop/StaveInvaders/StaveInvaders/SIViewController.m
-r0
-
-CBuild AST from /Users/jerome/Desktop/StaveInvaders/StaveInvaders/main.m
-r0
-
-CBuild AST from /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/Aliens/SI_Alien.cpp
-r0
-
-CBuild AST from /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/SIAppDelegate.mm
-r0
-
-CBuild AST from /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/SIMenuViewController.mm
-r0
-
-CBuild AST from /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/main.m
-r0
-
-CCheck dependencies
-r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies34daeade8300b741^39b404df8300b741^---0#1#0#--18"Check dependencies36"863A85CD-16D8-458F-80AE-9A3B38E91127-
-
-CCompileC Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SIAppDelegate.o /Users/jerome/Desktop/StaveInvaders/StaveInvaders/SIAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s385657127.800442
-e385657128.916048
-r1
-xCompileC
-xBuild/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SIAppDelegate.o
-x/Users/jerome/Desktop/StaveInvaders/StaveInvaders/SIAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/jerome/Desktop/StaveInvaders/StaveInvaders/SIAppDelegate.m240acd27a9fcb641^fe81ea28a9fcb641^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Users/jerome/Desktop/StaveInvaders/StaveInvaders/SIAppDelegate.m0000000000000000^3960"CompileC Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SIAppDelegate.o StaveInvaders/SIAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jerome/Desktop/StaveInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-generated-files.hmap -I/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-own-target-headers.hmap -I/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-all-target-headers.hmap -iquote /Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-project-headers.hmap -I/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/DerivedSources/i386 -I/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/DerivedSources -F/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator -include /Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-ejfochtmvjfyymdsiznoraozfzob/StaveInvaders-Prefix.pch -MMD -MT dependencies -MF /Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SIAppDelegate.d --serialize-diagnostics /Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SIAppDelegate.dia -c /Users/jerome/Desktop/StaveInvaders/StaveInvaders/SIAppDelegate.m -o /Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SIAppDelegate.o36"5B1CA09A-8FA4-4E8A-9198-D6F32D3C8555-
-
-CCompileC Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SIAppDelegate.o /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/SIAppDelegate.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
-s385659464.552789
-e385659465.201370
-r1
-xCompileC
-xBuild/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SIAppDelegate.o
-x/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/SIAppDelegate.mm
-xnormal
-xi386
-xobjective-c++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/SIAppDelegate.mm16a48d48b2fcb641^4c8e3349b2fcb641^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/SIAppDelegate.mm0000000000000000^4390"CompileC Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SIAppDelegate.o StaveInvaders/SIAppDelegate.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=0 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-generated-files.hmap -I/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-own-target-headers.hmap -I/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-all-target-headers.hmap -iquote /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-project-headers.hmap -I/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/DerivedSources/i386 -I/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/DerivedSources -F/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator -include /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-fpvahgytzrqfvocmbwhudthovzbq/StaveInvaders-Prefix.pch -MMD -MT dependencies -MF /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SIAppDelegate.d --serialize-diagnostics /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SIAppDelegate.dia -c /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/SIAppDelegate.mm -o /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SIAppDelegate.o36"421F27AC-FB2C-4645-B32B-4FC80434B5A5-
-
-CCompileC Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SIMenuViewController.o /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/SIMenuViewController.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
-s385659464.552814
-e385659464.796602
-r1
-xCompileC
-xBuild/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SIMenuViewController.o
-x/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/SIMenuViewController.mm
-xnormal
-xi386
-xobjective-c++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/SIMenuViewController.mme4a38d48b2fcb641^b7edcb48b2fcb641^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/SIMenuViewController.mm0000000000000000^4432"CompileC Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SIMenuViewController.o StaveInvaders/SIMenuViewController.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=0 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-generated-files.hmap -I/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-own-target-headers.hmap -I/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-all-target-headers.hmap -iquote /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-project-headers.hmap -I/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/DerivedSources/i386 -I/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/DerivedSources -F/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator -include /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-fpvahgytzrqfvocmbwhudthovzbq/StaveInvaders-Prefix.pch -MMD -MT dependencies -MF /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SIMenuViewController.d --serialize-diagnostics /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SIMenuViewController.dia -c /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/SIMenuViewController.mm -o /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SIMenuViewController.o36"CCF9BE7D-97DC-4828-8C86-7557E47EBC75-
-
-CCompileC Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SIViewController.o /Users/jerome/Desktop/StaveInvaders/StaveInvaders/SIViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s385657127.800424
-e385657128.849525
-r1
-xCompileC
-xBuild/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SIViewController.o
-x/Users/jerome/Desktop/StaveInvaders/StaveInvaders/SIViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/jerome/Desktop/StaveInvaders/StaveInvaders/SIViewController.mfe0acd27a9fcb641^7d79d928a9fcb641^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/jerome/Desktop/StaveInvaders/StaveInvaders/SIViewController.m0000000000000000^3978"CompileC Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SIViewController.o StaveInvaders/SIViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jerome/Desktop/StaveInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-generated-files.hmap -I/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-own-target-headers.hmap -I/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-all-target-headers.hmap -iquote /Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-project-headers.hmap -I/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/DerivedSources/i386 -I/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/DerivedSources -F/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator -include /Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-ejfochtmvjfyymdsiznoraozfzob/StaveInvaders-Prefix.pch -MMD -MT dependencies -MF /Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SIViewController.d --serialize-diagnostics /Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SIViewController.dia -c /Users/jerome/Desktop/StaveInvaders/StaveInvaders/SIViewController.m -o /Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SIViewController.o36"B043FDF9-E01B-4624-95EF-308880C17B3B-
-
-CCompileC Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SI_Alien.o /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/Aliens/SI_Alien.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s385659464.417731
-e385659464.902185
-r1
-xCompileC
-xBuild/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SI_Alien.o
-x/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/Aliens/SI_Alien.cpp
-xnormal
-xi386
-xc++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/Aliens/SI_Alien.cpp780c6b48b2fcb641^45f5e648b2fcb641^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/Aliens/SI_Alien.cpp0000000000000000^4138"CompileC Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SI_Alien.o StaveInvaders/Aliens/SI_Alien.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -mios-simulator-version-min=5.0 -iquote /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-generated-files.hmap -I/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-own-target-headers.hmap -I/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-all-target-headers.hmap -iquote /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-project-headers.hmap -I/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/DerivedSources/i386 -I/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/DerivedSources -F/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator -include /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-bciovxszupgbeiajcevbbfdlsczf/StaveInvaders-Prefix.pch -MMD -MT dependencies -MF /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SI_Alien.d --serialize-diagnostics /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SI_Alien.dia -c /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/Aliens/SI_Alien.cpp -o /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SI_Alien.o36"7835F159-A7A5-46DD-BE72-DDFA840A0F3E-
-
-CCompileC Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/main.o /Users/jerome/Desktop/StaveInvaders/StaveInvaders/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s385657127.800429
-e385657128.829989
-r1
-xCompileC
-xBuild/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/main.o
-x/Users/jerome/Desktop/StaveInvaders/StaveInvaders/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/jerome/Desktop/StaveInvaders/StaveInvaders/main.mee0acd27a9fcb641^077ad428a9fcb641^---0#0#0#-19%DVTDocumentLocation2@72"file://localhost/Users/jerome/Desktop/StaveInvaders/StaveInvaders/main.m0000000000000000^3906"CompileC Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/main.o StaveInvaders/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jerome/Desktop/StaveInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-generated-files.hmap -I/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-own-target-headers.hmap -I/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-all-target-headers.hmap -iquote /Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-project-headers.hmap -I/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/DerivedSources/i386 -I/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/DerivedSources -F/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator -include /Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-ejfochtmvjfyymdsiznoraozfzob/StaveInvaders-Prefix.pch -MMD -MT dependencies -MF /Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/main.dia -c /Users/jerome/Desktop/StaveInvaders/StaveInvaders/main.m -o /Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/main.o36"7D9BB70B-B0D2-4C05-AD50-B7DA47A7A55B-
-
-CCompileC Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/main.o /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s385659464.222837
-e385659464.673118
-r1
-xCompileC
-xBuild/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/main.o
-x/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/main.mc72a3948b2fcb641^df50ac48b2fcb641^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/main.m0000000000000000^4214"CompileC Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/main.o StaveInvaders/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-generated-files.hmap -I/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-own-target-headers.hmap -I/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-all-target-headers.hmap -iquote /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-project-headers.hmap -I/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/DerivedSources/i386 -I/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/DerivedSources -F/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator -include /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-gyqgfffqrfqrgtettvbebiaoedtx/StaveInvaders-Prefix.pch -MMD -MT dependencies -MF /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/main.dia -c /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/main.m -o /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/main.o36"DEA00A3E-8741-4E8F-804B-595219D057E5-
-
-CCompileStoryboard /Users/jerome/Desktop/StaveInvaders/StaveInvaders/en.lproj/MainStoryboard_iPad.storyboard
-s385657133.825754
-e385657152.486819
-r1
-xCompileStoryboard
-x/Users/jerome/Desktop/StaveInvaders/StaveInvaders/en.lproj/MainStoryboard_iPad.storyboard
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"CompileStoryboard StaveInvaders/en.lproj/MainStoryboard_iPad.storyboard2783d32da9fcb641^22a67c40a9fcb641^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/jerome/Desktop/StaveInvaders/StaveInvaders/en.lproj/MainStoryboard_iPad.storyboard0000000000000000^997"CompileStoryboard StaveInvaders/en.lproj/MainStoryboard_iPad.storyboard    cd /Users/jerome/Desktop/StaveInvaders    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/en.lproj/MainStoryboard_iPad.storyboardc /Users/jerome/Desktop/StaveInvaders/StaveInvaders/en.lproj/MainStoryboard_iPad.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"1541E071-C1A2-4C1E-8F6C-03F41F7329B5-
-
-CCompileStoryboard /Users/jerome/Desktop/StaveInvaders/StaveInvaders/en.lproj/MainStoryboard_iPhone.storyboard
-s385657133.825769
-e385657152.486796
-r1
-xCompileStoryboard
-x/Users/jerome/Desktop/StaveInvaders/StaveInvaders/en.lproj/MainStoryboard_iPhone.storyboard
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"CompileStoryboard StaveInvaders/en.lproj/MainStoryboard_iPhone.storyboardf582d32da9fcb641^e4a07c40a9fcb641^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/jerome/Desktop/StaveInvaders/StaveInvaders/en.lproj/MainStoryboard_iPhone.storyboard0000000000000000^1003"CompileStoryboard StaveInvaders/en.lproj/MainStoryboard_iPhone.storyboard    cd /Users/jerome/Desktop/StaveInvaders    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/en.lproj/MainStoryboard_iPhone.storyboardc /Users/jerome/Desktop/StaveInvaders/StaveInvaders/en.lproj/MainStoryboard_iPhone.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"643AD082-ED58-4987-A896-57954643B9AC-
-
-CCompileStoryboard /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/en.lproj/MainStoryboard_iPad.storyboard
-s385659467.257887
-e385659467.518369
-r1
-xCompileStoryboard
-x/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/en.lproj/MainStoryboard_iPad.storyboard
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"CompileStoryboard StaveInvaders/en.lproj/MainStoryboard_iPad.storyboard151c424bb2fcb641^a2b3844bb2fcb641^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/en.lproj/MainStoryboard_iPad.storyboard0000000000000000^1063"CompileStoryboard StaveInvaders/en.lproj/MainStoryboard_iPad.storyboard    cd /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/en.lproj/MainStoryboard_iPad.storyboardc /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/en.lproj/MainStoryboard_iPad.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"93FD6FB9-2572-494D-808E-0BA9FA5E9859-
-
-CCompileStoryboard /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/en.lproj/MainStoryboard_iPhone.storyboard
-s385659467.257852
-e385659467.485916
-r1
-xCompileStoryboard
-x/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/en.lproj/MainStoryboard_iPhone.storyboard
-o/* com.apple.ibtool.document.warnings */
-o/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/en.lproj/MainStoryboard_iPhone.storyboard:F3r-dC-Pw2: warning: Prototype table cells must have reuse identifiers [9]
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"CompileStoryboard StaveInvaders/en.lproj/MainStoryboard_iPhone.storyboard4c1b424bb2fcb641^0a6a7c4bb2fcb641^-224"/* com.apple.ibtool.document.warnings *//Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/en.lproj/MainStoryboard_iPhone.storyboard:F3r-dC-Pw2: warning: Prototype table cells must have reuse identifiers1(21%IDEActivityLogMessage2@49"Prototype table cells must have reuse identifiers-385659467#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@129"file://localhost/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/en.lproj/MainStoryboard_iPhone.storyboard0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--0#0#0#-19%DVTDocumentLocation4@129"file://localhost/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/en.lproj/MainStoryboard_iPhone.storyboard0000000000000000^1069"CompileStoryboard StaveInvaders/en.lproj/MainStoryboard_iPhone.storyboard    cd /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/en.lproj/MainStoryboard_iPhone.storyboardc /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/en.lproj/MainStoryboard_iPhone.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"E6F906A2-EC8F-41A7-BA8A-B5CC73E3DCD7-
-
-CCopyStringsFile /Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/en.lproj/InfoPlist.strings StaveInvaders/en.lproj/InfoPlist.strings
-s385657133.825867
-e385657133.892976
-r1
-xCopyStringsFile
-x/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/en.lproj/InfoPlist.strings
-xStaveInvaders/en.lproj/InfoPlist.strings
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy StaveInvaders/en.lproj/InfoPlist.stringsfd84d32da9fcb641^419fe42da9fcb641^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/jerome/Desktop/StaveInvaders/StaveInvaders/en.lproj/InfoPlist.strings0000000000000000^651"CopyStringsFile Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/en.lproj/InfoPlist.strings StaveInvaders/en.lproj/InfoPlist.strings    cd /Users/jerome/Desktop/StaveInvaders    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/en.lproj -- StaveInvaders/en.lproj/InfoPlist.strings36"728C7740-2D6B-4DF5-873C-6D371EED80F6-
-
-CCopyStringsFile /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/en.lproj/InfoPlist.strings StaveInvaders/en.lproj/InfoPlist.strings
-r0
-
-CGenerateDSYMFile /Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app.dSYM /Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/StaveInvaders
-s385657133.151565
-e385657133.817538
-r1
-xGenerateDSYMFile
-x/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app.dSYM
-x/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/StaveInvaders
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Generate /Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app.dSYMa0e0262da9fcb641^d849d12da9fcb641^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app.dSYM000000000080d041^768"GenerateDSYMFile Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app.dSYM Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/StaveInvaders    cd /Users/jerome/Desktop/StaveInvaders    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/StaveInvaders -o /Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app.dSYM36"0748155A-82F0-49ED-8975-7BCCBA19198A-
-
-CGenerateDSYMFile /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app.dSYM /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/StaveInvaders
-s385659467.199413
-e385659467.249769
-r1
-xGenerateDSYMFile
-x/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app.dSYM
-x/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/StaveInvaders
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection146"Generate /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app.dSYMd521334bb2fcb641^67f03f4bb2fcb641^---0#0#0#-19%DVTDocumentLocation2@154"file://localhost/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app.dSYM/0000000000000000^834"GenerateDSYMFile Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app.dSYM Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/StaveInvaders    cd /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/StaveInvaders -o /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app.dSYM36"584D6FB4-62FE-4CF6-AFD5-595D06235F8A-
-
-CLd /Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/StaveInvaders normal i386
-s385657128.922813
-e385657133.144808
-r1
-xLd
-x/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/StaveInvaders
-xnormal
-xi386
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Link /Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/StaveInvaders1a53ec28a9fcb641^9912252da9fcb641^---0#0#0#--1324"Ld Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/StaveInvaders normal i386    cd /Users/jerome/Desktop/StaveInvaders    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator -F/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator -filelist /Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/StaveInvaders.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.0 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/StaveInvaders36"F3FB6609-9AC2-4B37-82FE-7AF451C32283-
-
-CLd /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/StaveInvaders normal i386
-s385659465.208423
-e385659467.192487
-r1
-xLd
-x/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/StaveInvaders
-xnormal
-xi386
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection151"Link /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/StaveInvaders04723549b2fcb641^6b47314bb2fcb641^---0#0#0#--1436"Ld Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/StaveInvaders normal i386    cd /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator -F/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator -filelist /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/StaveInvaders.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.0 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/StaveInvaders36"D9B3AF64-2017-41BC-928E-34FEF23D607A-
-
-CProcessInfoPlistFile /Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/Info.plist StaveInvaders/StaveInvaders-Info.plist
-s385657116.739719
-e385657117.036786
-r1
-xProcessInfoPlistFile
-x/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/Info.plist
-xStaveInvaders/StaveInvaders-Info.plist
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Process StaveInvaders/StaveInvaders-Info.plist8b32bf1ca9fcb641^a261791da9fcb641^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/jerome/Desktop/StaveInvaders/StaveInvaders/StaveInvaders-Info.plist0000000000000000^770"ProcessInfoPlistFile Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/Info.plist StaveInvaders/StaveInvaders-Info.plist    cd /Users/jerome/Desktop/StaveInvaders    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility StaveInvaders/StaveInvaders-Info.plist -genpkginfo /Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/Info.plist36"BCC13CC9-5959-4C65-8172-E4C041F7A42A-
-
-CProcessInfoPlistFile /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/Info.plist StaveInvaders/StaveInvaders-Info.plist
-s385659463.150923
-e385659463.155409
-r1
-xProcessInfoPlistFile
-x/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/Info.plist
-xStaveInvaders/StaveInvaders-Info.plist
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Process StaveInvaders/StaveInvaders-Info.plist0bb52647b2fcb641^56d52747b2fcb641^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/StaveInvaders-Info.plist0000000000000000^836"ProcessInfoPlistFile Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/Info.plist StaveInvaders/StaveInvaders-Info.plist    cd /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility StaveInvaders/StaveInvaders-Info.plist -genpkginfo /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/Info.plist36"E83E08E4-27AE-44C1-9333-FEB17488E2BA-
-
-CProcessPCH /Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-ejfochtmvjfyymdsiznoraozfzob/StaveInvaders-Prefix.pch.pth StaveInvaders/StaveInvaders-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s385657117.045098
-e385657127.793945
-r1
-xProcessPCH
-x/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-ejfochtmvjfyymdsiznoraozfzob/StaveInvaders-Prefix.pch.pth
-xStaveInvaders/StaveInvaders-Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile StaveInvaders/StaveInvaders-Prefix.pch4ca90b1da9fcb641^de3ecb27a9fcb641^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/jerome/Desktop/StaveInvaders/StaveInvaders/StaveInvaders-Prefix.pch0000000000000000^3804"ProcessPCH Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-ejfochtmvjfyymdsiznoraozfzob/StaveInvaders-Prefix.pch.pth StaveInvaders/StaveInvaders-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jerome/Desktop/StaveInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-generated-files.hmap -I/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-own-target-headers.hmap -I/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-all-target-headers.hmap -iquote /Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-project-headers.hmap -I/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/DerivedSources/i386 -I/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/DerivedSources -F/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-ejfochtmvjfyymdsiznoraozfzob/StaveInvaders-Prefix.pch.dia -c /Users/jerome/Desktop/StaveInvaders/StaveInvaders/StaveInvaders-Prefix.pch -o /Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-ejfochtmvjfyymdsiznoraozfzob/StaveInvaders-Prefix.pch.pth -MMD -MT dependencies -MF /Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-ejfochtmvjfyymdsiznoraozfzob/StaveInvaders-Prefix.pch.d36"9EED1F1E-AED1-482F-99D1-791934BC8782-
-
-CProcessPCH /Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Index/PrecompiledHeaders/StaveInvaders-Prefix-blrtatsivfmecveuxvmcvbpunuzg_ast/StaveInvaders-Prefix.pch.pth StaveInvaders/StaveInvaders-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CProcessPCH /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-gyqgfffqrfqrgtettvbebiaoedtx/StaveInvaders-Prefix.pch.pth StaveInvaders/StaveInvaders-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s385659463.170354
-e385659464.215856
-r1
-xProcessPCH
-x/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-gyqgfffqrfqrgtettvbebiaoedtx/StaveInvaders-Prefix.pch.pth
-xStaveInvaders/StaveInvaders-Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile StaveInvaders/StaveInvaders-Prefix.pch8cb92b47b2fcb641^7d413748b2fcb641^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/StaveInvaders-Prefix.pch0000000000000000^4090"ProcessPCH Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-gyqgfffqrfqrgtettvbebiaoedtx/StaveInvaders-Prefix.pch.pth StaveInvaders/StaveInvaders-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-generated-files.hmap -I/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-own-target-headers.hmap -I/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-all-target-headers.hmap -iquote /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-project-headers.hmap -I/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/DerivedSources/i386 -I/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/DerivedSources -F/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-gyqgfffqrfqrgtettvbebiaoedtx/StaveInvaders-Prefix.pch.dia -c /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/StaveInvaders-Prefix.pch -o /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-gyqgfffqrfqrgtettvbebiaoedtx/StaveInvaders-Prefix.pch.pth -MMD -MT dependencies -MF /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-gyqgfffqrfqrgtettvbebiaoedtx/StaveInvaders-Prefix.pch.d36"9E2C13D6-962D-4445-A5F9-BA1D04329792-
-
-CProcessPCH /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Index/PrecompiledHeaders/StaveInvaders-Prefix-blunqucqivrvqgbvsmvrsyraflgp_ast/StaveInvaders-Prefix.pch.pth StaveInvaders/StaveInvaders-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CProcessPCH++ /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-bciovxszupgbeiajcevbbfdlsczf/StaveInvaders-Prefix.pch.pth StaveInvaders/StaveInvaders-Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s385659463.170345
-e385659464.410933
-r1
-xProcessPCH++
-x/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-bciovxszupgbeiajcevbbfdlsczf/StaveInvaders-Prefix.pch.pth
-xStaveInvaders/StaveInvaders-Prefix.pch
-xnormal
-xi386
-xc++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile StaveInvaders/StaveInvaders-Prefix.pchf9bf2b47b2fcb641^b5326948b2fcb641^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/StaveInvaders-Prefix.pch0000000000000000^3974"ProcessPCH++ Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-bciovxszupgbeiajcevbbfdlsczf/StaveInvaders-Prefix.pch.pth StaveInvaders/StaveInvaders-Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -mios-simulator-version-min=5.0 -iquote /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-generated-files.hmap -I/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-own-target-headers.hmap -I/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-all-target-headers.hmap -iquote /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-project-headers.hmap -I/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/DerivedSources/i386 -I/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/DerivedSources -F/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-bciovxszupgbeiajcevbbfdlsczf/StaveInvaders-Prefix.pch.dia -c /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/StaveInvaders-Prefix.pch -o /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-bciovxszupgbeiajcevbbfdlsczf/StaveInvaders-Prefix.pch.pth -MMD -MT dependencies -MF /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-bciovxszupgbeiajcevbbfdlsczf/StaveInvaders-Prefix.pch.d36"49262260-7E7A-4348-BC68-CE4005E798DB-
-
-CProcessPCH++ /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-fpvahgytzrqfvocmbwhudthovzbq/StaveInvaders-Prefix.pch.pth StaveInvaders/StaveInvaders-Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
-s385659463.170359
-e385659464.545941
-r1
-xProcessPCH++
-x/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-fpvahgytzrqfvocmbwhudthovzbq/StaveInvaders-Prefix.pch.pth
-xStaveInvaders/StaveInvaders-Prefix.pch
-xnormal
-xi386
-xobjective-c++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile StaveInvaders/StaveInvaders-Prefix.pchb2bc2b47b2fcb641^44c28b48b2fcb641^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/StaveInvaders-Prefix.pch0000000000000000^4212"ProcessPCH++ Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-fpvahgytzrqfvocmbwhudthovzbq/StaveInvaders-Prefix.pch.pth StaveInvaders/StaveInvaders-Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++-header -arch i386 -fmessage-length=0 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-generated-files.hmap -I/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-own-target-headers.hmap -I/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-all-target-headers.hmap -iquote /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-project-headers.hmap -I/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/DerivedSources/i386 -I/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/DerivedSources -F/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-fpvahgytzrqfvocmbwhudthovzbq/StaveInvaders-Prefix.pch.dia -c /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/StaveInvaders-Prefix.pch -o /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-fpvahgytzrqfvocmbwhudthovzbq/StaveInvaders-Prefix.pch.pth -MMD -MT dependencies -MF /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-fpvahgytzrqfvocmbwhudthovzbq/StaveInvaders-Prefix.pch.d36"9AEC56C0-9391-44E9-A0A5-585B3AE90102-
-
-CProcessPCH++ /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Index/PrecompiledHeaders/StaveInvaders-Prefix-amjhruvwrkaximepnhqjjleatgiv_ast/StaveInvaders-Prefix.pch.pth StaveInvaders/StaveInvaders-Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CProcessPCH++ /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Index/PrecompiledHeaders/StaveInvaders-Prefix-bhfbcqixwmcztqdnpulnueufybqw_ast/StaveInvaders-Prefix.pch.pth StaveInvaders/StaveInvaders-Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CTouch /Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app
-s385657152.494434
-e385657152.582712
-r1
-xTouch
-x/Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Touch /Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app9fae7e40a9fcb641^882d9540a9fcb641^---0#0#0#--452"Touch Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app    cd /Users/jerome/Desktop/StaveInvaders    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jerome/Desktop/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app36"59F63565-7F57-4617-8CF1-15F57783217B-
-
-CTouch /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app
-s385659467.527327
-e385659467.590178
-r1
-xTouch
-x/Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection138"Touch /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.appad17874bb2fcb641^a515974bb2fcb641^---0#0#0#--496"Touch Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app    cd /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jerome/Documents/Work/Software/AMTCS/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app36"A8738752-D402-41D3-8D80-AB3315A5A1C5-
-

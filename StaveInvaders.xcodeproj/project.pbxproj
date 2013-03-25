@@ -24,10 +24,10 @@
 /* Begin PBXFileReference section */
 		02322BA516FCAC5600044B5F /* SI_Alien.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = SI_Alien.cpp; path = StaveInvaders/Aliens/SI_Alien.cpp; sourceTree = SOURCE_ROOT; };
 		02322BA616FCAC5600044B5F /* SI_Alien.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SI_Alien.h; path = StaveInvaders/Aliens/SI_Alien.h; sourceTree = SOURCE_ROOT; };
-		02DFA5B6170088EC00FC1F51 /* KeyButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = KeyButton.h; path = ../../../../../../../Jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/KeyButton.h; sourceTree = "<group>"; };
-		02DFA5B7170088EC00FC1F51 /* KeyButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = KeyButton.m; path = ../../../../../../../Jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/KeyButton.m; sourceTree = "<group>"; };
-		02DFA5B917008B0800FC1F51 /* MainGameViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MainGameViewController.h; path = ../../../../../../../Jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/MainGameScene/MainGameViewController.h; sourceTree = "<group>"; };
-		02DFA5BA17008B0800FC1F51 /* MainGameViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MainGameViewController.m; path = ../../../../../../../Jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/MainGameScene/MainGameViewController.m; sourceTree = "<group>"; };
+		02DFA5B6170088EC00FC1F51 /* KeyButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = KeyButton.h; path = ../../../../../../Jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/KeyButton.h; sourceTree = SOURCE_ROOT; };
+		02DFA5B7170088EC00FC1F51 /* KeyButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = KeyButton.m; path = ../../../../../../Jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/KeyButton.m; sourceTree = SOURCE_ROOT; };
+		02DFA5B917008B0800FC1F51 /* MainGameViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MainGameViewController.h; path = ../../../../../../Jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/MainGameScene/MainGameViewController.h; sourceTree = SOURCE_ROOT; };
+		02DFA5BA17008B0800FC1F51 /* MainGameViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MainGameViewController.m; path = ../../../../../../Jerome/Documents/Work/Software/AMTCS/StaveInvaders/StaveInvaders/MainGameScene/MainGameViewController.m; sourceTree = SOURCE_ROOT; };
 		A18B4BCA16FCA5B7006A17B8 /* StaveInvaders.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StaveInvaders.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A18B4BCE16FCA5B7006A17B8 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		A18B4BD016FCA5B7006A17B8 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -74,7 +74,8 @@
 				02DFA5BA17008B0800FC1F51 /* MainGameViewController.m */,
 			);
 			name = MainGameScene;
-			sourceTree = "<group>";
+			path = StaveInvaders;
+			sourceTree = SOURCE_ROOT;
 		};
 		02DFA5BD17008DC500FC1F51 /* Keyboard */ = {
 			isa = PBXGroup;
@@ -83,7 +84,8 @@
 				02DFA5B7170088EC00FC1F51 /* KeyButton.m */,
 			);
 			name = Keyboard;
-			sourceTree = "<group>";
+			path = StaveInvaders;
+			sourceTree = SOURCE_ROOT;
 		};
 		A18B4BBF16FCA5B7006A17B8 = {
 			isa = PBXGroup;
