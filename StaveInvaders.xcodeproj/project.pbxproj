@@ -32,8 +32,8 @@
 		A18B4BDC16FCA5B7006A17B8 /* StaveInvaders-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "StaveInvaders-Prefix.pch"; sourceTree = "<group>"; };
 		A18B4BDD16FCA5B7006A17B8 /* SIAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SIAppDelegate.h; sourceTree = "<group>"; };
 		A18B4BDE16FCA5B7006A17B8 /* SIAppDelegate.mm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; path = SIAppDelegate.mm; sourceTree = "<group>"; };
-		A18B4BE116FCA5B7006A17B8 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
-		A18B4BE416FCA5B8006A17B8 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
+		A18B4BE116FCA5B7006A17B8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
+		A18B4BE416FCA5B8006A17B8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
 		A18B4BE616FCA5B8006A17B8 /* SIMenuViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SIMenuViewController.h; sourceTree = "<group>"; };
 		A18B4BE716FCA5B8006A17B8 /* SIMenuViewController.mm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; path = SIMenuViewController.mm; sourceTree = "<group>"; };
 /* End PBXFileReference section */
