@@ -10,9 +10,12 @@
 
 @implementation KeyButton
 
--(int) getWidth
+-(id)initialise : (int) midiNoteNum
 {
-    return width;
+    if ([super init]) {
+        
+        midiNoteNumber = midiNoteNum;
+    }
+    return self;
 }
-
 @end

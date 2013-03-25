@@ -10,10 +10,10 @@
 
 @interface KeyButton : UIButton
 {
-    int width;
     int midiNoteNumber;
 }
--(int) getWidth;
+-(id)initialise : (int) midiNoteNum;
+
 
 
 @end

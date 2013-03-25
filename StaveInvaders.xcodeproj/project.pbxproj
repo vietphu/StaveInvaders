@@ -63,8 +63,6 @@
 			children = (
 				02322BA516FCAC5600044B5F /* SI_Alien.cpp */,
 				02322BA616FCAC5600044B5F /* SI_Alien.h */,
-				02DFA5B6170088EC00FC1F51 /* KeyButton.h */,
-				02DFA5B7170088EC00FC1F51 /* KeyButton.m */,
 			);
 			name = Aliens;
 			sourceTree = "<group>";
@@ -76,6 +74,15 @@
 				02DFA5BA17008B0800FC1F51 /* MainGameViewController.m */,
 			);
 			name = MainGameScene;
+			sourceTree = "<group>";
+		};
+		02DFA5BD17008DC500FC1F51 /* Keyboard */ = {
+			isa = PBXGroup;
+			children = (
+				02DFA5B6170088EC00FC1F51 /* KeyButton.h */,
+				02DFA5B7170088EC00FC1F51 /* KeyButton.m */,
+			);
+			name = Keyboard;
 			sourceTree = "<group>";
 		};
 		A18B4BBF16FCA5B7006A17B8 = {
@@ -108,6 +115,7 @@
 		A18B4BD416FCA5B7006A17B8 /* StaveInvaders */ = {
 			isa = PBXGroup;
 			children = (
+				02DFA5BD17008DC500FC1F51 /* Keyboard */,
 				02DFA5BC17008B1200FC1F51 /* MainGameScene */,
 				02322BA216FCABB600044B5F /* Aliens */,
 				A18B4BDD16FCA5B7006A17B8 /* SIAppDelegate.h */,
