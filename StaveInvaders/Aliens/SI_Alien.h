@@ -21,9 +21,15 @@ public:
     SI_Alien(int NoteNumber);
     ~SI_Alien();
     
+    /** Set x co-ordinate 
+     */
     void setX(int newX);
+    /**Return X - cordinate
+     */
     int getX();
     
+    /** Return Note Number
+     */
     int NoteNumber();
     
 private:
