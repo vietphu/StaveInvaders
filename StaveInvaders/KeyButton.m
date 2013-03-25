@@ -18,4 +18,10 @@
     }
     return self;
 }
+
+-(int)MidiNoteNumber
+{
+    return midiNoteNumber;
+}
+
 @end
